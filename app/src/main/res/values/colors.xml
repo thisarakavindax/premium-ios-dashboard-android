@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Basic Colors -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="transparent">#00000000</color>
+
+    <!-- iOS System Backgrounds -->
+    <color name="ios_bg_light">#F2F2F7</color>
+    <color name="ios_card_light">#FFFFFF</color>
+    <color name="ios_text_main_light">#1C1C1E</color>
+    <color name="ios_text_sub_light">#8E8E93</color>
+
+    <!-- iOS Vibrant Colors -->
+    <color name="ios_blue">#007AFF</color>
+    <color name="ios_green">#34C759</color>
+    <color name="ios_orange">#FF9500</color>
+    <color name="ios_purple">#AF52DE</color>
+    <color name="ios_pink">#FF2D55</color>
+    <color name="ios_teal">#30B0C7</color>
+    <color name="ios_gray">#8E8E93</color>
+
+    <!-- Light Alpha Tints for iOS style icons background -->
+    <color name="ios_blue_tint">#1A007AFF</color>
+    <color name="ios_green_tint">#1A34C759</color>
+    <color name="ios_orange_tint">#1AFF9500</color>
+    <color name="ios_purple_tint">#1AAF52DE</color>
+
+    <!-- Premium Highlight Card Gradient Colors -->
+    <color name="gradient_start">#3A6073</color>
+    <color name="gradient_end">#3A7BD5</color>
+    <color name="gradient_accent_start">#FF5E62</color>
+    <color name="gradient_accent_end">#FF9966</color>
+</resources>

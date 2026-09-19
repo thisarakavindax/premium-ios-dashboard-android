@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://tools.android.com/apk/res/tools">
+    <!-- Base application theme with iOS clean style. -->
+    <style name="Theme.DashboardUi" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/ios_blue</item>
+        <item name="colorPrimaryVariant">@color/ios_blue</item>
+        <item name="colorOnPrimary">@color/white</item>
+
+        <!-- Background and window styling -->
+        <item name="android:windowBackground">@color/ios_bg_light</item>
+
+        <!-- Immersive or light status bar -->
+        <item name="android:statusBarColor">@color/ios_bg_light</item>
+        <item name="android:windowLightStatusBar" tools:targetApi="m">true</item>
+    </style>
+</resources>

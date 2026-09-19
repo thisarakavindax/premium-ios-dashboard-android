@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://tools.android.com/apk/res/tools">
+    <!-- Base application theme with iOS clean dark style. -->
+    <style name="Theme.DashboardUi" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/ios_blue</item>
+        <item name="colorPrimaryVariant">@color/ios_blue</item>
+        <item name="colorOnPrimary">@color/white</item>
+
+        <!-- Background and window styling for Dark Mode -->
+        <item name="android:windowBackground">@color/black</item>
+
+        <!-- Dark status bar -->
+        <item name="android:statusBarColor">@color/black</item>
+        <item name="android:windowLightStatusBar" tools:targetApi="m">false</item>
+    </style>
+</resources>
