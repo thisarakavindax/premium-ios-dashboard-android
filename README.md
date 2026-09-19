@@ -43,9 +43,9 @@ Both Light Mode and Dark Mode layouts have been explicitly tuned to adhere to cl
 Watch the staggered wave entrance, live rolling counters, and tactile spring feedback in action across both system modes:
 
 <p align="center">
-  <video src="screenshots/live_interactions_light.mp4" width="380" controls></video>
+  <img src="screenshots/live_interactions_light.mp4" width="380" title="Light Mode Live Animations" />
   ~ &nbsp; &nbsp; ~
-  <video src="screenshots/live_interactions_dark.mp4" width="380" controls></video>
+  <img src="screenshots/live_interactions_dark.mp4" width="380" title="Dark Mode Live Animations" />
 </p>
 
 ## ⚖️ License & Copyright
