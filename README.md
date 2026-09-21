@@ -47,7 +47,12 @@ Watch the staggered wave entrance, live rolling counters, and tactile spring fee
   ~ &nbsp; &nbsp; ~
   <img src="screenshots/dark.gif" width="380" alt="Dark Mode Live Animations" />
 </p>
+## Support Me ☕
+If you find this project helpful, you can support my work by buying me a coffee:
 
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/thisarakavinda)
+
+---
 ## ⚖️ License & Copyright
 Copyright © 2026 **Thisara Kavinda**. 
 
